@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhiae
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate on web development projects.
+- 🌱 I’m currently learning. 
+- 💞️ 
 - 📫 How to reach me ...
 
 <!---
