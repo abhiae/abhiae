@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhiae
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Full Stack Development From The Odin Project.
+- 🌱 I’m currently learning Full Stack Development From The Odin Project and FullStackOpen.
 - 📫 How to reach me ...
 
 <!---
